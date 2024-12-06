@@ -1,8 +1,8 @@
 build:
   version: "3.0"
 
-posts:
-  message: "Welcome to Project Posts related local APIs "
+cards:
+  message: "Welcome to EazyBank cards related local APIs "
   contactDetails:
     name: "Dragos Lech - Staff Engineer"
     email: "dragos@eazybank.com"
