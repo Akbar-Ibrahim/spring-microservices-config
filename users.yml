@@ -1,8 +1,8 @@
 build:
   version: "3.0"
 
-accounts:
-  message: "Welcome to EazyBank accounts related docker APIs "
+users:
+  message: "Welcome to Project users related docker APIs "
   contactDetails:
     name: "Ms. Jane Doe - Senior Software Engineer"
     email: "john@eazybank.com"
